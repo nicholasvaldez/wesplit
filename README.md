@@ -2,7 +2,7 @@
 
 ## Overview
 
-WeSplit is a native ios app. When going out to eat at restaurants with a large group, users will sometimes face the problem of splitting the check with tip equally amongst their peers. **WeSplit** solves this problem. All the user needs to do is:
+WeSplit is a native ios app. When going out to eat at restaurants with a large group, users will sometimes face the problem of having to split the check (with tip) equally amongst their peers. **WeSplit** solves this problem. All the user needs to do is:
 
 - Input the total check amount
 - Select how big their party is
